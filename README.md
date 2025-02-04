@@ -17,9 +17,11 @@ In this project, `Flower` is an abstract class that defines the common propertie
 In this project, `FlowerBehavior` is an interface that ensures all implementing classes provide a `bloom()` method.
 
 ## Project Structure
-``FlowerBehavior.java         // Interface defining flower behavior
-Flower.java                 // Abstract class for flower properties
-Rose.java                   // Concrete class extending Flower and implementing FlowerBehavior
+
+``
+FlowerBehavior.java  // Interface defining flower behavior
+Flower.java         // Abstract class for flower properties
+Rose.java          // Concrete class extending Flower and implementing FlowerBehavior
 Main.java         // Main class to demonstrate the project
 ``
 
