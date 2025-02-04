@@ -14,7 +14,7 @@ In this project, `Flower` is an abstract class that defines the common propertie
 - **Concrete Method:** `displayColor()` provides a common implementation for all subclasses.
 
 ### 3. **Interfaces**
-An interface defines a contract for classes without providing any implementation. In this project, `FlowerBehavior` is an interface that ensures all implementing classes provide a `bloom()` method.
+In this project, `FlowerBehavior` is an interface that ensures all implementing classes provide a `bloom()` method.
 
 ## Project Structure
 ``
